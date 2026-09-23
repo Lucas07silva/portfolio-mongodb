@@ -8,9 +8,10 @@ O objetivo é utilizar este espaço como um portfólio de aprendizagem, permitin
 
 | Aula    | Conteúdo                         | Status          |
 | ------- | -------------------------------- | --------------- |
-| Aula 01 | Conteúdos iniciais da disciplina | ✅ Concluído     |
-| Aula 02 | Conteúdos apresentados em sala   | ✅ Concluído     |
-| Aula 03 | Próximo conteúdo                 | 🔄 Em andamento |
+| Aula 01 | CRUD | ✅ Concluído     |
+| Aula 02 | Operadores   | ✅ Concluído     |
+| Aula 03 | Consulta                 | ✅ Concluído  |
+| Aula 04 | Relacionamento                 | ✅ Concluído  |
 
 ## 📂 Organização
 
